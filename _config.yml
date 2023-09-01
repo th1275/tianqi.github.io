@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ming Yi"
+title                    : "Tianqi Hong"
 title_separator          : "-"
-name                     : &name "Ming Yi"
+name                     : &name "Tianqi Hong"
 description              : &description "personal description"
-url                      : https://yiminghit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tianqi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yiminghit/yiminghit.github.io"
+repository               : "th1275/tianqi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ming Yi"
+  name             : "Tianqi Hong"
   avatar           : "heatshot_Ming.jpg"
-  bio              : "Postdoctoral Research Scientist at Columbia University"
-  location         : "New York City, NY, USA"
+  bio              : "Assistant Professor at the University of Georgia"
+  location         : "Athens, GA, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Arh9UFUAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=SVSL2ocAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Ming-Yi-11"
+  researchgate     : "https://www.researchgate.net/profile/Tianqi-Hong"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "mingyi-871114179"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-9482-6908"
+  linkedin         : "https://www.linkedin.com/in/tianqi-hong-47647870/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1307-6808"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
